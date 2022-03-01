@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact narrative of the resolute attempt and happy success of a small part of His Majesties fleet, under the conduct of Sir Robert Holmes, Rere [sic]-Admiral to the Red Squadron, upon the isles of Vly and Skelling, on the ninth and tenth of this instant August, one thousand six hundred and sixty six.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03164</idno>
+            <idno type="STC">Wing E3667</idno>
+            <idno type="STC">ESTC R176824</idno>
+            <idno type="EEBO-CITATION">52612159</idno>
+            <idno type="OCLC">ocm 52612159</idno>
+            <idno type="VID">179454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179454)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2789:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact narrative of the resolute attempt and happy success of a small part of His Majesties fleet, under the conduct of Sir Robert Holmes, Rere [sic]-Admiral to the Red Squadron, upon the isles of Vly and Skelling, on the ninth and tenth of this instant August, one thousand six hundred and sixty six.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within double-line border.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179454:1" rendition="simple:additions"/>
+            <p>AN EXACT NARRATIVE OF THE Reſolute ATTEMPT and happy SUCCESS OF A SMALL PART OF HIS MAJESTIES FLEET, Under the Conduct of Sir <hi>ROBERT HOLMES,</hi> Rere-Admiral to the Red Squadron, Upon the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>VLY</hi> and <hi>SKELLING,</hi> On the ninth and tenth of this inſtant <hi>Auguſt,</hi> One thouſand ſix hundered and ſixty ſix.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent MAJESTY, 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179454:2"/>
+            <pb n="3" facs="tcp:179454:2"/>
+            <head>AN EXACT NARRATIVE OF THE Reſolute Attempt and happy Succeſs OF A PART OF HIS MAJESTIES FLEET, Under the Conduct of Sir <hi>Robert Holmes,</hi> upon the Iſles of <hi>Vly</hi> and <hi>Skelling,</hi> on the ninth and tenth of <hi>Auguſt,</hi> 1666.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 29. of <hi>July,</hi> His <hi>Majeſties</hi> Fleet, under his Highneſs Prince <hi>Rupert,</hi> and his Grace the <hi>Duke</hi> of <hi>Albemarle,</hi> weighed an<g ref="char:EOLhyphen"/>chor from within ſight of <hi>Zealand.</hi> They ſteered their courſe for the <hi>Vly,</hi> but the winds being contrary, they did not make the Iſland till the 7. of <hi>Auguſt;</hi> In which time, ſeveral rich ſhips hapned to get in, which otherwiſe had faln into their hands. Being come to
+<pb n="4" facs="tcp:179454:3"/>an Anchor, the Generals were informed, that the Iſlands of <hi>Vly</hi> and <hi>Skelling,</hi> were very ill guarded (notwithſtanding there were Store houſes, both for the States and the <hi>Eaſt-India</hi> Fleets) and riches to a good value; and what did weigh moſt, a conſi<g ref="char:EOLhyphen"/>derable number of good Merchant-ſhips, uſually riding there; Upon which, it was reſolved by the Generals, that there ſhould be a ſpeedy attempt made. A Councel of Flag-Officers was call'd; and it was deter<g ref="char:EOLhyphen"/>mined there, that it ſhould be carried on, in manner following, <hi>viz.</hi> That three hund<g ref="char:EOLhyphen"/>red men ſhould be drawn out of each Squa<g ref="char:EOLhyphen"/>dron, conſiſting of two parts Land-men, and the third Sea-men; theſe to be com<g ref="char:EOLhyphen"/>manded by nine Captains, their Names as followeth, Sir <hi>Robert Holmes</hi> Rere-Ad<g ref="char:EOLhyphen"/>miral of the Red, to command in chief, Sir <hi>Philip Howard,</hi> to command one hundred and twenty Volunteers, Captain <hi>John Bel<g ref="char:EOLhyphen"/>laſis,</hi> Captain <hi>Hamond,</hi> Captain <hi>Wiltſhire,</hi> Captain <hi>Haddock,</hi> Captain <hi>Guy,</hi> Captain <hi>Silver,</hi> Captain <hi>Healing,</hi> Captain <hi>Butler,</hi> Captain <hi>John Holmes,</hi> each command a Company; Sir <hi>William Jenings</hi> was alſo or<g ref="char:EOLhyphen"/>dered (that in caſe they had attacqued
+<pb n="5" facs="tcp:179454:3"/>both Iſlands at one time) he ſhould have com<g ref="char:EOLhyphen"/>manded one diviſion of the whole. The ſhips ap<g ref="char:EOLhyphen"/>pointed for this expedition, were as followeth, The <hi>Advice, Hampſhire, Tyger, Dragon,</hi> and <hi>Aſſurance,</hi> fourth Rates; the <hi>Garland, Pembrook</hi> and <hi>Sweep-Stakes,</hi> fifth Rates, five Fireſhips, and ſeven Ketches; which being in a readineſs on VVedneſday the 8th <hi>Auguſt,</hi> about eight in the morning, they weigh<g ref="char:EOLhyphen"/>ed from the reſt of the Fleet, and came to an Anchor about a League from the <hi>Buyes;</hi> where they met the Princes Pleaſure-Boat, called the <hi>Fanfan,</hi> who had diſcovered within, a conſiderable Fleet of ſhips near the <hi>Vly;</hi> vvhich proved to be one hundred and ſeventy Merchants-ſhips; the leaſt of which, was not of leſſe then two hundred Tuns burthen, with two Men of VVar, who had lately convoyed near one hundred of the aforeſaid ſhips from the North<g ref="char:EOLhyphen"/>ward, being homeward bound; ſome from the <hi>Streights,</hi> ſome from <hi>Guiny,</hi> ſome from <hi>Ruſſia,</hi> and ſome from the Eaſt-Countries; the reſt were out<g ref="char:EOLhyphen"/>ward bound ſhips; all, of both parts, richly loaden. Sir <hi>Robert Holmes</hi> conſidering, that if he ſhould proceed, as his deſign was, firſt to attempt the Land, that numerous Fleet might poſsibly pour in ſuch numbers of men, as might render the Succeſs ha<g ref="char:EOLhyphen"/>zardous, Reſolved to begin with the Ships; and ac<g ref="char:EOLhyphen"/>cordingly having ordered the <hi>Advice</hi> and <hi>Hamp<g ref="char:EOLhyphen"/>ſhire</hi> to lie without the <hi>Buyes,</hi> he weighed with the reſt of his Fleet, and the wind being contrary, with much adoe, he turned into <hi>Skelling</hi> Road, where the <hi>Tyger</hi> came to an Anchor, and immediatly Sir <hi>Robert</hi> went on board the <hi>Fanfan,</hi> and put out his
+<pb n="6" facs="tcp:179454:4"/>Flag; upon which the Officers came aboard him; where it was ordered, that the <hi>Pembrook</hi> which drew the leaſt water, with the five Fireſhips, ſhould fall in amongſt the Enemies Fleet with what ſpeed they could; Captain <hi>Brown</hi> with his Fireſhip laid the biggeſt Man of VVar very bravely aboard, and burned him down-right; Another Fire-ſhip, run<g ref="char:EOLhyphen"/>ning up at the ſame time, to the other Man of VVar, he backing his ſails, eſcaped that preſent execution of the Fire-ſhip; but ſo, as to run him<g ref="char:EOLhyphen"/>ſelf by it on ground; where he was preſently taken by ſome of the Long-boates, and fired; The other three Fireſhips clapped the three great Merchant-men, which carried Flags in their Main Tops, and burned them. This put all their Fleet in a great confuſion; which Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Holmes</hi> perceiving, made a ſign for all the Officers to come aboard again, and preſently gave order, that Sir <hi>William Jenings</hi> with all the Boates that could be ſpared, ſhould take the advantage, and fall in, and burn and deſtroy all they could; But with a ſtrict command, they ſhould not plunder. The execution was ſo well followed, each Cap<g ref="char:EOLhyphen"/>tain undertaking his Share, ſome 12. ſome 15. a peece, that of their whole Fleet there eſcaped not above 8 or 9 ſhips; one of which a <hi>Guiny</hi> Man of 24 Guns and three ſmall Privateers, who being dravvn up into an Narrovv Corner of the Stream, ſerved to protect 4 or 5 Merchant men, that vvere a head of them, vvhere it vvas not poſſible for our Boats to come at them, though even theſe fevv vvere much damag'd; This vvork took up moſt
+<pb n="7" facs="tcp:179454:4"/>part of that day, being the 9th of <hi>Aug.</hi> ſo that vve had not day enough, to fall upon the Iſland of the <hi>Vly.</hi> Sir <hi>Robert Holmes</hi> being alſo informed by ſome priſoners, that the place vvas not ſo conſide<g ref="char:EOLhyphen"/>rable, as it vvas repreſented; and night coming on, and perceiving tvvo of the Frigots, <hi>viz.</hi> the <hi>Dra<g ref="char:EOLhyphen"/>gon</hi> and <hi>Garland</hi> on ground, It vvas thought moſt convenient; for all hands firſt to go to vvork to get them off, vvhich being done, he continued in his in<g ref="char:EOLhyphen"/>tention of attempting the <hi>Vly</hi> next morning, as ſoon as the high vvater could permit the motion of his Veſſels; But his deſign vvas novv likewiſe prevent<g ref="char:EOLhyphen"/>ed; for ſo great a guſt and rain hapned that night, that the Armes and Ammunition in the Boates, Hoyes, and Ketches having received much damage, he thought it beſt to weigh, and as the wind ſtood, to attempt ſomething upon the Iſland of <hi>Skelling,</hi> vvhich the morning proving moderate vveather, he accordingly proſecuted, landing by the help of his Long boates eleven Companies on ſhore, vvhere he diſcovered only ſome fevv ſcattering fellovves, but met vvith little or no oppoſition; leaving therefore one Company to ſecure his Boats, himſelf, with ten Companies marched up three miles to the Capital Town, called <hi>Brandares,</hi> a very fair Town, or <hi>Dorp,</hi> of above one thouſand houſes, where keeping five Companies upon the skirts of the Town, to prevent any ſurprize of the Enemy, he ſent the other five to fire and burn the Town. But finding them ſomewhat ſlow to receive that order, and fearing they might be tempted to forget themſelves in the
+<pb n="8" facs="tcp:179454:5"/>pillage; he himſelf was forced to ſet fire to ſome houſes on the wind-ward, the ſooner to perfect the work, and haſten his men away, which burnt with that violence, that in half an hours time, the moſt part of the Town was in a flame. The Town was reported by thoſe that were found in it, to have been very rich; and ſo it appeared by ſome of the Souldiers pockets, but very few people were to be ſeen in it, except ſome old men and women, which were uſed with all gentleneſs and humanity. The remaining Villages of that Iſland, which were two or three, had certainly run the ſame fortune. But, conſidering, it was nigh high water, Sir <hi>Robert</hi> thought it not fit to loſe the opportunity of getting out to Sea; which he thought more conſiderable, than to ſtay 24. hours for the deſtruction of ſome few and inconſiderable Villages, remembring likewiſe, that the Channels next the Buyes, vvere very narrovv, and not bold vvithout a franck vvind. By hight of vvwater he got off all his men, and ſet ſail out of the place retaining ſtill his firſt intentions of falling upon the <hi>Vly;</hi> but as he vvas going on board, he received Orders from the Generals, to return to the Fleet vvith all ſpeed, vvhich he did that evening, being the 10th. of <hi>Au<g ref="char:EOLhyphen"/>guſt;</hi> bringing off the marks of a ſingular conduct, and moſt vigorous execution; beſides, a conſider<g ref="char:EOLhyphen"/>able booty to the private Souldiers and Sea-men, their States Pleaſure-boat of 12 Guns, vvithout any other loſs, then of ſix men killed, and about as many vvounded.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
